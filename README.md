@@ -1,4 +1,3 @@
-````markdown
 # Counter App
 
 A simple React app with a counter component.
@@ -35,5 +34,3 @@ Open the app in your browser at:
 * `Counter.jsx` – Counter component
 * `main.jsx` – Entry point
 * `index.html` – Root HTML file
-
-```
